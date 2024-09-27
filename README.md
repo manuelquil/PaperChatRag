@@ -18,7 +18,7 @@
 - In console navigate to the proyect folder and execute main_app file,
    ````
    cd C:\Users\%username%\Rag
-   python main_app.py
+   python Ollama_RAG_app.py
    ````
   ## Usage Example
 

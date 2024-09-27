@@ -34,7 +34,7 @@ We have tested the Chat with several Mathematical Research papers (in English an
 
 The following is the Chat Bot's response to one of my articles on Differential Geometry.
 
-![alt text](https://github.com/manuelquil/PaperChatRag/edit/main//image.jpg?raw=true)
+![alt text](https://github.com/manuelquil/PaperChatRag/blob/main/Documents/Response.png)
 
 
 

@@ -27,6 +27,13 @@ This initial procedure must be done every time a new document is uploaded for ch
 
   - Add a Path inside the Textbox to store the Knowledgment Document DataBase (e.g `c:\chroma`).
   - Upload a pdf Document and click Create Chroma DataBase (The app will create Chroma DataBase and automatically will store it into the Path.)
-    
 
-  
+### Paper Q&A performance
+
+We have tested the Chat with several Mathematical Research papers (in English and Spanish) and the performance was very good. The model is capable of recognizing mathematical symbols and defining the specificity of the paper.
+
+The following is the Chat Bot's response to one of my articles on Differential Geometry.
+
+
+
+

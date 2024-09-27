@@ -20,5 +20,13 @@
    cd C:\Users\%username%\Rag
    python main_app.py
    ````
-  ## Functional Example
+  ## Usage Example
+
+### Upload a new Document and Create Knowledgment DataBase
+This initial procedure must be done every time a new document is uploaded for chat. Once this is done, it is not necessary to repeat the procedure; just set the path where the Chroma database was written and start chatting.
+
+  - Add a Path inside the Textbox to store the Knowledgment Document DataBase (e.g `c:\chroma`).
+  - Upload a pdf Document and click Create Chroma DataBase (The app will create Chroma DataBase and automatically will store it into the Path.)
+    
+
   
